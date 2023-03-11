@@ -1,0 +1,7 @@
+{
+  "name": "myapp-cms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
